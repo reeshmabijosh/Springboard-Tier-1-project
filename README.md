@@ -1,5 +1,6 @@
 # Springboard-Tier-1-project
 The Business Problem
+
 You’re working for a marketing consultancy firm (congrats on the new job!) One of your
 clients is a company that designs operating systems, and they want to build a major
 apps store into their user interface. To this end, they want to know whether Google Play
